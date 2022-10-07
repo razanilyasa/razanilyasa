@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **razan.ilyasa@gmail.com**
 
-- 📄 Know about my experiences <a href="https://throwbin.in/1b6mft" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://www.behance.net/razanilyasa" target="blank">Portofolio</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -32,7 +32,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://throwbin.in/1b6mft">
+		<a style="margin-left: 5px;" target="_blank" href="https://www.behance.net/razanilyasa">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
