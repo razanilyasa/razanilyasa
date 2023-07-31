@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razan Ilyasa
-<h3 align="center">A passionate UI/UX Design from Sukabumi Indonesia
+<h3 align="center">A passionate UI/UX Design 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -38,4 +38,4 @@
 
 </p>
 
-Last Edited on: 1/10/2022
+Last Edited on: 01/08/2023
