@@ -11,8 +11,6 @@
 
 - 🤝 I’m available for fulltime.
 
-- 🌱 I’m currently learning Front-End Development
-
 - 💬 Ask me about **IT Support**
 
 - 📫 How to reach me **razan.ilyasa@gmail.com**
