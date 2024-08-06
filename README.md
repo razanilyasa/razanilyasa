@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razan Ilyasa
-<h3 align="center">A passionate UI/UX Design 
+<h3 align="center">A passionate IT Support 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -7,13 +7,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on UI/UX Designer
+- 🌱 I’m currently Working on Technician Digital Area
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for fulltime.
 
 - 🌱 I’m currently learning Front-End Development
 
-- 💬 Ask me about **UI/UX Designer**
+- 💬 Ask me about **IT Support**
 
 - 📫 How to reach me **razan.ilyasa@gmail.com**
 
